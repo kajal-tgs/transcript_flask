@@ -1,0 +1,11 @@
+flask
+requests
+openai-whisper
+zappa
+beautifulsoup4
+python-dotenv
+requests
+pymongo
+boto3
+moviepy
+ffmpeg
